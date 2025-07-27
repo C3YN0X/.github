@@ -1,8 +1,10 @@
-<div align="center">
-# C3YN0X
-</div>
-
 # CEYNOX 🇱🇰
+
+</br>
+
+<img width="1920" height="1080" alt="CEYNOX-Banner" src="https://github.com/user-attachments/assets/1e0b42d0-efe4-426e-b6ae-d2cbf92db7ca" />
+
+</br>
 
 **An Inspired Software Company**
 
@@ -85,8 +87,6 @@ Ready to collaborate or learn more about our initiatives? We'd love to hear from
 
 *"From Ceylon's heritage to digital excellence - this is CEYNOX."*
 
-\#SriLanka \#DigitalTransformation \#SAAS \#Innovation \#TechForGood \#DigitalLiteracy \#SoftwareDevelopment \#Ceylon \#TechStartup
-
 <div align="center">
 
 **Made with ❤️ in Sri Lanka** | **Founded 2025** | **Building Tomorrow's Solutions Today**
@@ -94,3 +94,5 @@ Ready to collaborate or learn more about our initiatives? We'd love to hear from
 *CEYNOX - Where Innovation Meets Impact*
 
 </div>
+
+\#SriLanka \#DigitalTransformation \#SAAS \#Innovation \#TechForGood \#DigitalLiteracy \#SoftwareDevelopment \#Ceylon \#TechStartup
