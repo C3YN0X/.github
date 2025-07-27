@@ -5,6 +5,7 @@
 <img width="1920" height="1080" alt="CEYNOX-Banner" src="https://github.com/user-attachments/assets/1e0b42d0-efe4-426e-b6ae-d2cbf92db7ca" />
 
 </br>
+</br>
 
 **An Inspired Software Company**
 
